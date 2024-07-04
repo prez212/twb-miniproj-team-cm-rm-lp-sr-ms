@@ -10,10 +10,14 @@ UofT Bootcamp min project with tableau
 
 Only ended up using EV_Alternative_Fuel_Charging_Stations_USA.csv
 
+
+For finished dashboard:
 https://public.tableau.com/app/profile/rob.molenda/viz/AlternativeFuelChargingUSA/Dashboard1?publish=yes
 
 
-
+Used:
 https://www.kaggle.com/datasets/saketpradhan/electric-and-alternative-fuel-charging-stations
 
+
+Not used:
 https://www.kaggle.com/datasets/abdelrahman16/co2-emissions-usa/data
